@@ -1,0 +1,77 @@
+{
+    "short_name": "Heroes|PWA",
+    "name": "Heroes PWA",
+    "start_url": "/index.html",
+    "scope": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "cadetblue",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "icon-48x48.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+      {
+        "src": "icon-72x72.png",
+        "type": "image/png",
+        "sizes": "72x72"
+      },
+      {
+        "src": "icon-96x96.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "icon-144x144.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      },
+      {
+        "src": "icon-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "icon-57x57.png",
+        "type": "image/png",
+        "sizes": "57x57"
+      },
+      {
+        "src": "icon-60x60.png",
+        "type": "image/png",
+        "sizes": "60x60"
+      },
+      {
+        "src": "icon-76x76.png",
+        "type": "image/png",
+        "sizes": "76x76"
+      },
+      {
+        "src": "icon-114x114.png",
+        "type": "image/png",
+        "sizes": "114x114"
+      },
+      {
+        "src": "icon-120x120.png",
+        "type": "image/png",
+        "sizes": "120x120"
+      },
+      {
+        "src": "icon-152x152.png",
+        "type": "image/png",
+        "sizes": "152x152"
+      },
+      {
+        "src": "icon-180x180.png",
+        "type": "image/png",
+        "sizes": "180x180"
+      },
+      {
+        "src": "icon-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
