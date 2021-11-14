@@ -2,12 +2,16 @@
     "short_name": "Heroes|PWA",
     "name": "Heroes PWA",
     "start_url": "/index.html",
-    "scope": ".",
     "display": "standalone",
-    "theme_color": "#000000",
+    "theme_color": "#1597E5",
     "background_color": "cadetblue",
     "orientation": "portrait-primary",
     "icons": [
+      {
+        "src": "favicon.ico",
+        "sizes": "16x16",
+        "type": "image/x-icon"
+      },
       {
         "src": "images/icons/icon-48x48.png",
         "type": "image/png",
