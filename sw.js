@@ -1,11 +1,12 @@
 const staticCacheName = 'site-static-v1';
-const dynamicCacheName = 'site-dynamic-v1';
+const dynamicCacheName = 'site-dynamic-v2';
 const assets = [
     '/',
     '/index.html',
     '/js/app.js',
     '/js/heroes-card.js',
     '/css/style.css',
+    '/js/showsOffline.js',
     'https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css'
 ]
 
